@@ -1,5 +1,5 @@
 # Hi there, I'm Ahmed 👋🏽
-I am recent software developer. Who recently finished a web development bootcamp.Very passionate about learning to become a better software developer and futher my experience.
+I recent completed web development bootcamp became full stack developer. Very passionate about learning new programming languages and frameworks to become a better software developer so that can further my experience.
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=atz1man&show_icons=true&theme=radical)
 ## Languages
